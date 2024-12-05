@@ -1,5 +1,5 @@
 # BrazilianTrafficSign
-Implementation of a YoloV8 model trained to detect and classify traffic signs in Brazilian roads.
+Implementation of a YoloV11 model trained to detect and classify traffic signs in Brazilian roads.
 
 ## Training the Model
 
