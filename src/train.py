@@ -23,7 +23,7 @@ results = model.train(
     epochs=300,
     imgsz=640,
     batch=16,
-    name='yolov8_traffic_signs'
+    name='yolov11_traffic_signs'
 )
 
 print("Training completed.")
