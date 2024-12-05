@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 68
+names: ['A-10b', 'A-11b', 'A-12', 'A-13a', 'A-13b', 'A-14', 'A-15', 'A-18', 'A-1a', 'A-1b', 'A-20a', 'A-20b', 'A-21c', 'A-21d', 'A-21e', 'A-22', 'A-24', 'A-27', 'A-28', 'A-2a', 'A-2b', 'A-31', 'A-32a', 'A-32b', 'A-33a', 'A-33b', 'A-3a', 'A-3b', 'A-42a', 'A-42b', 'A-4a', 'A-4b', 'A-52', 'A-5a', 'A-5b', 'A-6', 'A-7a', 'A-7b', 'A-8', 'Del', 'E-5', 'ESP-20', 'I-4', 'LOC-6', 'MO', 'MP', 'R-1', 'R-15', 'R-19', 'R-2', 'R-24a', 'R-24b', 'R-26', 'R-27', 'R-28', 'R-33', 'R-43', 'R-4a', 'R-4b', 'R-5a', 'R-6a', 'R-6b', 'R-6c', 'R-7', 'RQ', 'S-14', 'TUR-4', 'de']
+
+roboflow:
+  workspace: stefano-tommasini-coelho-euf67
+  project: placas-de-transito-br
+  version: 9
+  license: Public Domain
+  url: https://universe.roboflow.com/stefano-tommasini-coelho-euf67/placas-de-transito-br/dataset/9
