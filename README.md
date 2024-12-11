@@ -17,3 +17,13 @@ You can also run the script in debugger mode for detailed debugging information 
 
 Results are saved in the folder specified in <user_folder>/.config/Ultralytics/settings.yaml.
 
+# Links:
+
+- O código base está disponível no repositório em [GitHub/BrazilianTrafficSign](https://github.com/lfpastuch/BrazilianTrafficSign).
+
+- Dataset at [Roboflow/placas-de-transito-br](https://universe.roboflow.com/stefano-tommasini-coelho-euf67/placas-de-transito-br).
+
+- Presentation at [Google Drive](https://docs.google.com/presentation/d/1n0RHX0erH6ROYw_CpAl82Wk3X9j0IWWvMD0g-lmN0Lk/edit?usp=sharing).
+
+- Presentation video at [Youtube](https://youtu.be/n2aczoxYthw).
+
